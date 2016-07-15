@@ -1,0 +1,7 @@
+datil_api_key: your-datil-api-key
+client_id: your-datil-client-id
+commerce_id: the-commerce-id
+acquirer_id: the-acquirer-id
+env: environment-test-or-production
+payment_req_url: datil-payment-request-url
+payment_res_url: datil-payment-response-url
